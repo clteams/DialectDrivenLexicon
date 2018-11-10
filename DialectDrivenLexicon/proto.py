@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 
-class DialectDrivenDictionary:
+class DialectDrivenLexicon:
     def __init__(self, entries=None):
         self.entries = entries
 
